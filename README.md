@@ -1,6 +1,6 @@
-Hi, I’m Elitsa
-I’m interested in making money ;)
-I’m currently learning software development at the Bulgarian software university - SoftUni.
+-- Hi, I’m Elitsa
+-- I’m interested in hiking ;)
+-- I’m currently learning software development at the Bulgarian software university - SoftUni.
 
 <!---
 Taelliee/Taelliee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
