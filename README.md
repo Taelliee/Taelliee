@@ -1,5 +1,5 @@
 -- Hi, I’m Elitsa
--- I’m interested in hiking ;)
+-- I’m interested in hiking and having a stable income
 -- I’m currently learning software development at the Bulgarian software university - SoftUni.
 
 <!---
