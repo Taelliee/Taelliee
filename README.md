@@ -1,7 +1,7 @@
 -- Hi, I’m Elitsa
--- I’m interested in hiking and having a stable income
--- I’m currently learning software development at Technical University Varna
--- I've completed a few courses at SoftUni
+-- Currently learning software development at Technical University Varna
+-- Interested in hiking and having a stable income
+-- Completed a few courses at SoftUni
 
 <!---
 Taelliee/Taelliee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
